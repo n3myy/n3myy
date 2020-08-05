@@ -18,5 +18,5 @@
 
 
 ### Links
-[My Tech Blog](https://room01.co.uk)
-[Private Git](https://git.room01.co.uk)
+- [My Tech Blog](https://room01.co.uk)
+- [Private Git](https://git.room01.co.uk)
