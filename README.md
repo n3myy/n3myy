@@ -1,5 +1,5 @@
 ### Hi there, I'm Harry. Aka: N3my 👋
-## Little bit about me:
+## About me:
 True believer in self-hosted, open source & GNU/Linux systems. 
 
 - 🔭 I’m currently working on: IPv6 Mesh networking
