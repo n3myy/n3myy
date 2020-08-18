@@ -15,5 +15,5 @@ True believer in self-hosted, open source & GNU/Linux systems.
 
 
 if you want to buy me a coffee!
-* BTC: 3H8P43gMNvrhYNQ9oFhar4iqXbaybJ78nv
+* <img src="https://simpleicons.org/icons/bitcoin.svg" alt="alt text" width="50" height="50"> 3H8P43gMNvrhYNQ9oFhar4iqXbaybJ78nv
 * LTC: MKwd7eRMqoM7o92ueYc8THagkp1pBhvyar
