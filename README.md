@@ -14,4 +14,4 @@ True believer in self-hosted, open source & GNU/Linux systems.
 - [My Git](https://git.room01.co.uk)
 
 
-if you want to buy me a coffee.. ![3H8P43gMNvrhYNQ9oFhar4iqXbaybJ78nv](https://simpleicons.org/icons/bitcoin.svg)
+if you want to buy me a coffee.. ![3H8P43gMNvrhYNQ9oFhar4iqXbaybJ78nv](https://simpleicons.org/icons/bitcoin.svg =50x50)
