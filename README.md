@@ -14,4 +14,6 @@ True believer in self-hosted, open source & GNU/Linux systems.
 - [My Git](https://git.room01.co.uk)
 
 
-if you want to buy me a coffee.. ![3H8P43gMNvrhYNQ9oFhar4iqXbaybJ78nv](https://simpleicons.org/icons/bitcoin.svg =250x )
+if you want to buy me a coffee!
+* BTC: 3H8P43gMNvrhYNQ9oFhar4iqXbaybJ78nv
+* LTC: MKwd7eRMqoM7o92ueYc8THagkp1pBhvyar
