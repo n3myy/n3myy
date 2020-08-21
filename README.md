@@ -8,7 +8,7 @@ True believer in self-hosted, open source & GNU/Linux systems.
 - 📫 How to reach me: [Telegram](https://web.telegram.org/#/im?p=@n3myy)
 
 ## My Skills
-<img src="https://simpleicons.org/icons/linux.svg" alt="bitcoin" width="30" height="30">    <img src="https://simpleicons.org/icons/python.svg" alt="bitcoin" width="30" height="30">   <img src="https://simpleicons.org/icons/microsoftazure.svg" alt="bitcoin" width="30" height="20">  <img src="https://simpleicons.org/icons/docker.svg" width="30" height="30">   <img src="https://simpleicons.org/icons/kubernetes.svg" width="30" height="30">   <img src="https://simpleicons.org/icons/gnubash.svg" width="30" height="30">   <img src="https://simpleicons.org/icons/openssl.svg" width="30" height="30">    <img src="https://simpleicons.org/icons/postgresql.svg" width="30" height="30">   <img src="https://simpleicons.org/icons/jira.svg" width="30 height="30">
+<img src="https://simpleicons.org/icons/linux.svg" alt="bitcoin" width="30" height="30">    <img src="https://simpleicons.org/icons/python.svg" alt="bitcoin" width="30" height="30">   <img src="https://simpleicons.org/icons/microsoftazure.svg" alt="bitcoin" width="30" height="20">  <img src="https://simpleicons.org/icons/docker.svg" width="30" height="30">   <img src="https://simpleicons.org/icons/kubernetes.svg" width="30" height="30">   <img src="https://simpleicons.org/icons/gnubash.svg" width="30" height="30">   <img src="https://simpleicons.org/icons/openssl.svg" width="30" height="30">    <img src="https://simpleicons.org/icons/postgresql.svg" width="30" height="30">   <img src="https://simpleicons.org/icons/jira.svg" width="30" height="30">
 
 
 ![Funny Gif](https://media.giphy.com/media/4byqZCAGVNx72/giphy.gif)
