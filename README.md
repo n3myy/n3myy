@@ -10,7 +10,7 @@ True believer in self-hosted, open source & GNU/Linux systems.
 ## My Skills
 <img src="https://simpleicons.org/icons/linux.svg" width="40" height="40">    <img src="https://simpleicons.org/icons/windows.svg" width="40" height="40">    <img src="https://simpleicons.org/icons/microsoftazure.svg" width="40" height="40">   <img src="https://simpleicons.org/icons/redhat.svg" width="40" height="40">     <img src="https://simpleicons.org/icons/manjaro.svg" width="40" height="40">   <img src="https://simpleicons.org/icons/docker.svg" width="40" height="40">   <img src="https://simpleicons.org/icons/kubernetes.svg" width="40" height="40">    <img src="https://simpleicons.org/icons/ansible.svg" width="40" height="40">   <img src="https://simpleicons.org/icons/python.svg" width="40" height="40">   <img src="https://simpleicons.org/icons/gnubash.svg" width="40" height="40">   <img src="https://simpleicons.org/icons/openssl.svg" width="40" height="40">    <img src="https://simpleicons.org/icons/postgresql.svg" width="40" height="40">   <img src="https://simpleicons.org/icons/jira.svg" width="40" height="40">   <img src="https://simpleicons.org/icons/nginx.svg" width="40" height="40">    <img src="https://simpleicons.org/icons/archlinux.svg" width="40" height="40">    <img src="https://simpleicons.org/icons/elasticsearch.svg" width="40" height="40">     <img src="https://simpleicons.org/icons/ghost.svg" widt="40" height="40">
 
-Some days I feel like Jimbo, people trying to distract me from my work and give them this look:
+Some days I feel like Jimbo, people trying to distract me from my work and give them this look⬇️
 
 ![Funny Gif](https://media.giphy.com/media/4byqZCAGVNx72/giphy.gif)
 
