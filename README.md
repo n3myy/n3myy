@@ -12,7 +12,9 @@ True believer in self-hosted, open source & GNU/Linux systems.
 
 Some days I feel like Jimbo, people trying to distract me from my work and give them this look⬇️
 
-<img align="center" src="https://media.giphy.com/media/4byqZCAGVNx72/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/4byqZCAGVNx72/giphy.gif">
+</p>
 
 ### Links
 - [My Tech Blog](https://room01.co.uk)
