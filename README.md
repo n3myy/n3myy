@@ -24,3 +24,4 @@ Some days I feel like Jimbo, people trying to distract me from my work and give 
 If you want to buy me a coffee <img src="https://simpleicons.org/icons/buymeacoffee.svg" alt="coffee" width="20" height="20">
 * <img src="https://simpleicons.org/icons/bitcoin.svg" alt="bitcoin" width="20" height="20"> 3H8P43gMNvrhYNQ9oFhar4iqXbaybJ78nv
 * <img src="https://simpleicons.org/icons/litecoin.svg" alt="litecoin" width="20" height="20"> MKwd7eRMqoM7o92ueYc8THagkp1pBhvyar
+* <img src="https://simpleicons.org/icons/ethereum.svg" alt="ethereum" width="20" height="20"> 0xF7851F77a89c4Aa24Fb97a6A6Fc93993CDB94B02
